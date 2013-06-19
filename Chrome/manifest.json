@@ -26,8 +26,7 @@
 				"tinycon.js",
 				"jquery.tokeninput.js",
 				"snuownd.js",
-				"reddit_enhancement_suite.user.js",
-				"jstat-1.0.0.min.js"
+				"reddit_enhancement_suite.user.js"
 			],
 			"css": [
 				"nightmode.css",
